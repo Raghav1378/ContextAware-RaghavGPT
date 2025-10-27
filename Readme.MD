@@ -1,6 +1,6 @@
 # 🤖 RaghavGPT — Your Context-Aware AI Assistant
 
-RaghavGPT is a **context-aware GenAI chatbot** that learns from your own content — your GitHub READMEs, LinkedIn bio, notes, or documents — and answers questions *in your own voice*.  
+RaghavGPT is a **context-aware GenAI chatbot** that learns from your own content  your GitHub READMEs, LinkedIn bio, notes, or documents  and answers questions *in your own voice*.  
 Built using **RAG (Retrieval-Augmented Generation)**, **FAISS**, and **Streamlit**, it shows how personal AI assistants can truly understand context instead of guessing.
 
 ---
